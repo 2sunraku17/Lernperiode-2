@@ -10,7 +10,7 @@ Was wäre ein geeignetes Projekt für diese LP1?
 - [x] Auf Empfehlung des Lehrers habe ich eine Überprüfung für ungültige Eingaben programmiert. Wenn man etwas anderes als eine Zahl zwischen 1 und 100 eingibt, erscheint die Meldung „Ungültige Eingabe“.
 
 ✍️Heute habe ich mit der Startaufgabe des Lehrers angefangen, nämlich ein Zahlenratespiel zu programmieren. Er hat mir empfohlen, ungültige Eingaben auszusortieren und dem Benutzer eine Nachricht anzuzeigen, dass er eine falsche Eingabe gemacht hat, die nicht zur Fragestellung passt.
-- [ ] Levels hinzufügen man kann entscheiden Lvl.1 = 1 bis 100,  Lvl.2 = 1-1000,  Lvl.3 = 1 bis 100'000
+- [x] Levels hinzufügen man kann entscheiden Lvl.1 = 1 bis 100,  Lvl.2 = 1-1000,  Lvl.3 = 1 bis 100'000
 
 
 
