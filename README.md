@@ -15,6 +15,6 @@ Was wäre ein geeignetes Projekt für diese LP1?
 
 
 # 23.10.2026
-- [ ] Den Benutzer nach der gewünschten Passwortlänge fragen und die Eingabe im Programm verarbeiten. Anschliessend soll die eingegebene Länge zur Kontrolle im Terminal ausgegeben werden.
-- [ ] Einen Passwort-Generator entwickeln, der mithilfe von Zufallszahlen Kleinbuchstaben und Zahlen auswählt und zu einem Passwort kombiniert. Die Länge des generierten Passworts soll der - [ ] Den Passwort-Generator um Grossbuchstaben und Sonderzeichen erweitern, damit abwechslungsreichere Passwörter erstellt werden können. Der Benutzer soll auswählen können, welche Zeichentypen im Passwort vorkommen dürfen.
-- [ ] Eine Überprüfung für ungültige Eingaben programmieren, damit beispielsweise falsche Passwortlängen erkannt und mit einer Fehlermeldung beantwortet werden. Zusätzlich soll der Benutzer bestimmen können, wie viele Passwörter generiert und anschliessend im Terminal angezeigt werden.
+- [x] Den Benutzer nach der gewünschten Passwortlänge fragen und die Eingabe im Programm verarbeiten. Anschliessend soll die eingegebene Länge zur Kontrolle im Terminal ausgegeben werden.
+- [x] Einen Passwort-Generator entwickeln, der mithilfe von Zufallszahlen Kleinbuchstaben und Zahlen auswählt und zu einem Passwort kombiniert. Die Länge des generierten Passworts soll der - [ ] Den Passwort-Generator um Grossbuchstaben und Sonderzeichen erweitern, damit abwechslungsreichere Passwörter erstellt werden können. Der Benutzer soll auswählen können, welche Zeichentypen im Passwort vorkommen dürfen.
+- [x] Eine Überprüfung für ungültige Eingaben programmieren, damit beispielsweise falsche Passwortlängen erkannt und mit einer Fehlermeldung beantwortet werden. Zusätzlich soll der Benutzer bestimmen können, wie viele Passwörter generiert und anschliessend im Terminal angezeigt werden.
