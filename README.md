@@ -27,7 +27,23 @@ Was wäre ein geeignetes Projekt für diese LP1?
 
 
 
-- [ ] Ein Schere-Stein-Papier-Spiel programmieren, bei dem der Benutzer etwas eingibt und der Computer zufällig auswählt.
-- [ ] Die Gewinnregeln programmieren und ungültige Eingaben mit einer Fehlermeldung abfangen.
-- [ ] Mehrere Runden ermöglichen und einen Punktestand für Benutzer und Computer mitzählen.
-- [ ] Am Schluss den Gesamtsieger anzeigen und fragen, ob man nochmals spielen möchte (j/n).
+- [x] Ein Schere-Stein-Papier-Spiel programmieren, bei dem der Benutzer etwas eingibt und der Computer zufällig auswählt.
+- [x] Die Gewinnregeln programmieren und ungültige Eingaben mit einer Fehlermeldung abfangen.
+- [x] Mehrere Runden ermöglichen und einen Punktestand für Benutzer und Computer mitzählen.
+- [x] Am Schluss den Gesamtsieger anzeigen und fragen, ob man nochmals spielen möchte (j/n).
+
+Heute habe ich ein Schere Stein Papier Game programmiert was eine Zufallsoption nimmt nachdem ich meine gesagt habe (Schere, Stein oder Papier). Ich habe diese Idee umgesetzt, da ich es liebe spassige Projekte zu machen und ich eh mit "random" arbeiten wollte weil ich Schwierigkeiten letztes mal hatte.
+
+# 06.11.2026
+
+- [ ] HA: Mit ToLower() die Eingabe in Kleinbuchstaben umwandeln, damit das Programm „Papier“ und „papier“ beide erkennt.
+
+
+- [ ]Ein Kampfspiel im Terminal programmieren, bei dem per Zufall ein Monster erscheint: Goblin (50 %), Shrek (35 %) oder Drache (15 %). Jedes Monster hat eigene Lebenspunkte und eigenen Schaden.
+  
+- [ ] Den Kampf programmieren: Der Benutzer greift an, das Monster greift zurück, und nach jeder Runde werden die Lebenspunkte angezeigt.
+
+- [ ] Mehrere Aktionen einbauen: Angreifen, Heilen (max. 3x) und Spezialangriff (max. 1x). Ungültige Eingaben werden mit einer Fehlermeldung abgefangen.
+ 
+- [ ] Nach einem Sieg erscheint ein neues Monster. Am Schluss wird angezeigt, wie viele Monster man besiegt hat, und gefragt, ob man nochmals spielen möchte (j/n).
+
