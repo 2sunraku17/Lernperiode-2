@@ -35,11 +35,11 @@ Was wäre ein geeignetes Projekt für diese LP1?
 Heute habe ich ein Schere Stein Papier Game programmiert was eine Zufallsoption nimmt nachdem ich meine gesagt habe (Schere, Stein oder Papier). Ich habe diese Idee umgesetzt, da ich es liebe spassige Projekte zu machen und ich eh mit "random" arbeiten wollte weil ich Schwierigkeiten letztes mal hatte.
 
 # 06.11.2026
+- [ ]
+- HA: Mit ToLower() die Eingabe in Kleinbuchstaben umwandeln, damit das Programm „Papier“ und „papier“ beide erkennt.
 
-- [ ] HA: Mit ToLower() die Eingabe in Kleinbuchstaben umwandeln, damit das Programm „Papier“ und „papier“ beide erkennt.
 
-
-- [ ]Ein Kampfspiel im Terminal programmieren, bei dem per Zufall ein Monster erscheint: Goblin (50 %), Shrek (35 %) oder Drache (15 %). Jedes Monster hat eigene Lebenspunkte und eigenen Schaden.
+- [ ] Ein Kampfspiel im Terminal programmieren, bei dem per Zufall ein Monster erscheint: Goblin (50 %), Shrek (35 %) oder Drache (15 %). Jedes Monster hat eigene Lebenspunkte und eigenen Schaden.
   
 - [ ] Den Kampf programmieren: Der Benutzer greift an, das Monster greift zurück, und nach jeder Runde werden die Lebenspunkte angezeigt.
 
