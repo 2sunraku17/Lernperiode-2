@@ -23,7 +23,7 @@ Was wäre ein geeignetes Projekt für diese LP1?
 
 # 30.10.2026
 
-# HA 
+##HA 
 - [x] Eine Passwort-Bewertung programmieren: Am Schluss wird der Benutzer gefragt, ob er das Passwort bewerten lassen möchte. Wenn er „j“ eingibt, bekommt das Passwort eine Bewertung von 1 bis 10. Die Bewertung hängt davon ab, wie viele Zeichentypen ausgewählt wurden (Kleinbuchstaben, Grossbuchstaben, Zahlen, Sonderzeichen) und wie lang das Passwort ist. Je länger das Passwort und je mehr Zeichentypen, desto besser die Bewertung.
 
 - [ ] Ein Schere-Stein-Papier-Spiel programmieren, bei dem der Benutzer etwas eingibt und der Computer zufällig auswählt.
