@@ -5,52 +5,48 @@ string nochmal = "j";
 
 while (nochmal == "j")
 {
-    // Spieler wählt
     Console.Write("Schere, Stein oder Papier? ");
-    string spieler = Console.ReadLine();
+    string spieler = Console.ReadLine().ToLower();
 
-    // Falsche Eingabe prüfen
-    if (spieler != "Schere" && spieler != "Stein" && spieler != "Papier")
+    if (spieler != "schere" && spieler != "stein" && spieler != "papier")
     {
         Console.WriteLine("Ungültige Eingabe");
     }
     else
     {
-        // Computer wählt zufällig
         int zahl = zufall.Next(1, 4);
         string computer = "";
 
         if (zahl == 1)
         {
-            computer = "Schere";
+            computer = "schere";
         }
         if (zahl == 2)
         {
-            computer = "Stein";
+            computer = "stein";
         }
         if (zahl == 3)
         {
-            computer = "Papier";
+            computer = "papier";
         }
 
         Console.WriteLine("Computer: " + computer);
 
-        // Gewinner bestimmen
         if (spieler == computer)
         {
             Console.WriteLine("Unentschieden!");
         }
-        else if (spieler == "Schere" && computer == "Papier")
+        else if (spieler == "schere" && computer == "papier")
         {
             Console.WriteLine("Du gewinnst!");
             punkteSpieler = punkteSpieler + 1;
         }
-        else if (spieler == "Stein" && computer == "Schere")
+        else if (spieler == "stein" && computer == "schere")
         {
             Console.WriteLine("Du gewinnst!");
             punkteSpieler = punkteSpieler + 1;
         }
-        else if (spieler == "Papier" && computer == "Stein")
+        else if (spieler == "papier" && computer == "stein")
         {
             Console.WriteLine("Du gewinnst!");
             punkteSpieler = punkteSpieler + 1;
@@ -61,16 +57,13 @@ while (nochmal == "j")
             punkteComputer = punkteComputer + 1;
         }
 
-        // Punktestand anzeigen
         Console.WriteLine("Punkte: Du " + punkteSpieler + " - Computer " + punkteComputer);
     }
 
-    // Nochmals spielen?
     Console.Write("Nochmals spielen (j/n)? ");
-    nochmal = Console.ReadLine();
+    nochmal = Console.ReadLine().ToLower();
 }
 
-// Gesamtsieger anzeigen
 if (punkteSpieler > punkteComputer)
 {
     Console.WriteLine("Du hast gewonnen!");
