@@ -45,5 +45,19 @@ Heute habe ich ein Schere Stein Papier Game programmiert was eine Zufallsoption 
 
 - [x] Mehrere Aktionen einbauen: Angreifen, Heilen (max. 3x) und Spezialangriff (max. 1x). Ungültige Eingaben werden mit einer Fehlermeldung abgefangen.
  
-- [ ] Nach einem Sieg erscheint ein neues Monster. Am Schluss wird angezeigt, wie viele Monster man besiegt hat, und gefragt, ob man nochmals spielen möchte (j/n).
+- [x] Nach einem Sieg erscheint ein neues Monster. Am Schluss wird angezeigt, wie viele Monster man besiegt hat, und gefragt, ob man nochmals spielen möchte (j/n).
+
+
+Heute habe ich ein Monster-Kampfspiel im Terminal programmiert, bei dem zufällig ein Goblin, Shrek oder Drache erscheint und man mit Angreifen, Heilen und einem Spezialangriff gegen die Monster kämpft.
+
+
+# 13.11.2026
+
+- [ ] Am Anfang den Spielernamen abfragen und ihn im Spiel verwenden, zum Beispiel „Muris greift an und macht 15 Schaden!“ und bei der Lebenspunkte-Anzeige.
+
+- [ ] Farben einbauen mit Console.ForegroundColor: Schaden wird rot angezeigt, Heilung grün und Fehlermeldungen gelb.
+
+- [ ] Ein neues Monster hinzufügen (z. B. Skelett) mit eigenen Lebenspunkten und eigenem Schaden. Die Wahrscheinlichkeiten werden so angepasst, dass sie zusammen 100 % ergeben.
+
+- [ ] Am Anfang einen Schwierigkeitsgrad auswählen lassen (1 = leicht, 2 = schwer): Bei leicht startet der Spieler mit 150 Lebenspunkten, bei schwer mit 70. Ungültige Eingaben werden mit einer Fehlermeldung abgefangen.
 
