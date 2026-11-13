@@ -64,7 +64,7 @@ Was wäre ein geeignetes Projekt für diese LP1?
 
 - Heute habe ich mein Monsterspiel um einen Spielernamen, Farben, ein neues Monster (Skelett) und einen Schwierigkeitsgrad erweitert und den Code auf GitHub aktualisiert.
 
-## 20.11.2026
+# 20.11.2026
 
 - [ ] HA: Mein GitHub-Repo „Lernperiode-2“ in Visual Studio klonen, das Monsterspiel als Projektordner hinzufügen und mit „Commit und Push“ hochladen, damit Änderungen direkt aus Visual Studio auf GitHub kommen.
 
