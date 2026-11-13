@@ -53,11 +53,25 @@ Heute habe ich ein Monster-Kampfspiel im Terminal programmiert, bei dem zufälli
 
 # 13.11.2026
 
-- [ ] Am Anfang den Spielernamen abfragen und ihn im Spiel verwenden, zum Beispiel „Muris greift an und macht 15 Schaden!“ und bei der Lebenspunkte-Anzeige.
+- [x] Am Anfang den Spielernamen abfragen und ihn im Spiel verwenden, zum Beispiel „Muris greift an und macht 15 Schaden!“ und bei der Lebenspunkte-Anzeige.
 
-- [ ] Farben einbauen mit Console.ForegroundColor: Schaden wird rot angezeigt, Heilung grün und Fehlermeldungen gelb.
+- [x] Farben einbauen mit Console.ForegroundColor: Schaden wird rot angezeigt, Heilung grün und Fehlermeldungen gelb.
 
-- [ ] Ein neues Monster hinzufügen (z. B. Skelett) mit eigenen Lebenspunkten und eigenem Schaden. Die Wahrscheinlichkeiten werden so angepasst, dass sie zusammen 100 % ergeben.
+- [x] Ein neues Monster hinzufügen (z. B. Skelett) mit eigenen Lebenspunkten und eigenem Schaden. Die Wahrscheinlichkeiten werden so angepasst, dass sie zusammen 100 % ergeben.
 
-- [ ] Am Anfang einen Schwierigkeitsgrad auswählen lassen (1 = leicht, 2 = schwer): Bei leicht startet der Spieler mit 150 Lebenspunkten, bei schwer mit 70. Ungültige Eingaben werden mit einer Fehlermeldung abgefangen.
+- [x] Am Anfang einen Schwierigkeitsgrad auswählen lassen (1 = leicht, 2 = schwer): Bei leicht startet der Spieler mit 150 Lebenspunkten, bei schwer mit 70. Ungültige Eingaben werden mit einer Fehlermeldung abgefangen.
 
+
+- Heute habe ich mein Monsterspiel um einen Spielernamen, Farben, ein neues Monster (Skelett) und einen Schwierigkeitsgrad erweitert und den Code auf GitHub aktualisiert.
+
+## 20.11.2026
+
+- [ ] HA: Mein GitHub-Repo „Lernperiode-2“ in Visual Studio klonen, das Monsterspiel als Projektordner hinzufügen und mit „Commit und Push“ hochladen, damit Änderungen direkt aus Visual Studio auf GitHub kommen.
+
+- [ ] Kritische Treffer einbauen: Jeder Angriff hat eine Chance von 5 %, doppelten Schaden zu machen. Dann erscheint in Rot die Meldung „Kritischer Treffer!“.
+
+- [ ] Ausweichen einbauen: Der Spieler hat eine Chance von 15 %, einem Monsterangriff auszuweichen. Dann bekommt er keinen Schaden, und es erscheint die Meldung „Du bist ausgewichen!“.
+
+- [ ] Ein Upgrade-System einbauen: Nach jeweils 2 besiegten Monstern kann der Spieler eins von drei Upgrades wählen: +10 % Crit-Chance, +20 maximale Lebenspunkte oder +5 Schaden. Ungültige Eingaben werden mit einer Fehlermeldung abgefangen.
+
+- [ ] Am Spielende eine Statistik anzeigen: wie viele Runden gespielt wurden, wie viel Schaden man insgesamt gemacht hat und wie oft man sich geheilt hat.
