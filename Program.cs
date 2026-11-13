@@ -1,5 +1,3 @@
-Program · CS
-Console.OutputEncoding = System.Text.Encoding.UTF8;
 Random zufall = new Random();
 bool nochmalsSpielen = true;
  
