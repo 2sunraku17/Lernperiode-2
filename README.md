@@ -62,7 +62,7 @@ Was wäre ein geeignetes Projekt für diese LP1?
 - [x] Am Anfang einen Schwierigkeitsgrad auswählen lassen (1 = leicht, 2 = schwer): Bei leicht startet der Spieler mit 150 Lebenspunkten, bei schwer mit 70. Ungültige Eingaben werden mit einer Fehlermeldung abgefangen.
 
 
-- Heute habe ich mein Monsterspiel um einen Spielernamen, Farben, ein neues Monster (Skelett) und einen Schwierigkeitsgrad erweitert und den Code auf GitHub aktualisiert.
+- Heute habe ich mein Monsterspiel erweitert: Am Anfang gibt man jetzt seinen Namen ein und wählt einen Schwierigkeitsgrad. Ausserdem gibt es mit dem Skelett ein neues Monster, und Schaden, Heilung und Fehler werden in verschiedenen Farben angezeigt. Dabei habe ich gemerkt, dass mein Visual-Studio-Projekt nicht mit GitHub verbunden ist. Das will ich als Hausaufgabe lösen.
 
 # 20.11.2026
 
