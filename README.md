@@ -32,7 +32,7 @@ Was wäre ein geeignetes Projekt für diese LP1?
 - [x] Mehrere Runden ermöglichen und einen Punktestand für Benutzer und Computer mitzählen.
 - [x] Am Schluss den Gesamtsieger anzeigen und fragen, ob man nochmals spielen möchte (j/n).
 
-Heute habe ich ein Schere Stein Papier Game programmiert was eine Zufallsoption nimmt nachdem ich meine gesagt habe (Schere, Stein oder Papier). Ich habe diese Idee umgesetzt, da ich es liebe spassige Projekte zu machen und ich eh mit "random" arbeiten wollte weil ich Schwierigkeiten letztes mal hatte.
+- Heute habe ich ein Schere Stein Papier Game programmiert was eine Zufallsoption nimmt nachdem ich meine gesagt habe (Schere, Stein oder Papier). Ich habe diese Idee umgesetzt, da ich es liebe spassige Projekte zu machen und ich eh mit "random" arbeiten wollte weil ich Schwierigkeiten letztes mal hatte.
 
 # 06.11.2026
 
@@ -48,7 +48,7 @@ Heute habe ich ein Schere Stein Papier Game programmiert was eine Zufallsoption 
 - [x] Nach einem Sieg erscheint ein neues Monster. Am Schluss wird angezeigt, wie viele Monster man besiegt hat, und gefragt, ob man nochmals spielen möchte (j/n).
 
 
-Heute habe ich ein Monster-Kampfspiel im Terminal programmiert, bei dem zufällig ein Goblin, Shrek oder Drache erscheint und man mit Angreifen, Heilen und einem Spezialangriff gegen die Monster kämpft.
+- Heute habe ich ein Monster-Kampfspiel im Terminal programmiert, bei dem zufällig ein Goblin, Shrek oder Drache erscheint und man mit Angreifen, Heilen und einem Spezialangriff gegen die Monster kämpft.
 
 
 # 13.11.2026
