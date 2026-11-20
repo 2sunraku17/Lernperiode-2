@@ -69,10 +69,25 @@ Was wäre ein geeignetes Projekt für diese LP1?
 - [x] HA: Mein GitHub-Repo „Lernperiode-2“ in Visual Studio klonen, das Monsterspiel als Projektordner hinzufügen und mit „Commit und Push“ hochladen, damit Änderungen direkt aus Visual Studio auf GitHub kommen.
 Antwort: Code vom Monsterspiel: https://github.com/2sunraku17/Spiel. Aus diesem Grund habe ich die Spiel-.cs Dateien gelöscht oder werde sie noch löschen, denn das ganze Projekt mit Aktualisierungen befindet sich in 2sunraku17/Spiel
 
-- [ ] Kritische Treffer einbauen: Jeder Angriff hat eine Chance von 5 %, doppelten Schaden zu machen. Dann erscheint in Rot die Meldung „Kritischer Treffer!“.
+- [x] Kritische Treffer einbauen: Jeder Angriff hat eine Chance von 5 %, doppelten Schaden zu machen. Dann erscheint in Rot die Meldung „Kritischer Treffer!“.
 
-- [ ] Ausweichen einbauen: Der Spieler hat eine Chance von 15 %, einem Monsterangriff auszuweichen. Dann bekommt er keinen Schaden, und es erscheint die Meldung „Du bist ausgewichen!“.
+- [x] Ausweichen einbauen: Der Spieler hat eine Chance von 15 %, einem Monsterangriff auszuweichen. Dann bekommt er keinen Schaden, und es erscheint die Meldung „Du bist ausgewichen!“.
 
-- [ ] Ein Upgrade-System einbauen: Nach jeweils 2 besiegten Monstern kann der Spieler eins von drei Upgrades wählen: +10 % Crit-Chance, +20 maximale Lebenspunkte oder +5 Schaden. Ungültige Eingaben werden mit einer Fehlermeldung abgefangen.
+- [x] Ein Upgrade-System einbauen: Nach jeweils 2 besiegten Monstern kann der Spieler eins von drei Upgrades wählen: +10 % Crit-Chance, +20 maximale Lebenspunkte oder +5 Schaden. Ungültige Eingaben werden mit einer Fehlermeldung abgefangen.
 
-- [ ] Am Spielende eine Statistik anzeigen: wie viele Runden gespielt wurden, wie viel Schaden man insgesamt gemacht hat und wie oft man sich geheilt hat.
+- [x] Am Spielende eine Statistik anzeigen: wie viele Runden gespielt wurden, wie viel Schaden man insgesamt gemacht hat und wie oft man sich geheilt hat.
+
+
+
+
+## 27.11.2026
+
+- [ ] HA: Im Repo „Spiel“ ein README erstellen, das erklärt, worum es im Monsterspiel geht und wie man es spielt (Aktionen, Monster, Upgrades). Im Lernjournal von „Lernperiode-2“ einen Link zum Repo „Spiel“ einfügen.
+
+- [ ] Einen Endboss einbauen: Nach 5 besiegten Monstern erscheint statt eines normalen Monsters der Endboss mit vielen Lebenspunkten und viel Schaden. Wenn man ihn besiegt, erscheint eine spezielle Siegesmeldung.
+
+- [ ] Monster-Spezialangriffe einbauen: Der Drache hat eine Chance von 20 %, Feuer zu speien und doppelten Schaden zu machen. Dann erscheint in Rot die Meldung „Der Drache speit Feuer!“.
+
+- [ ] Ein Gold-System einbauen: Jedes besiegte Monster gibt Gold (z. B. Goblin 5, Drache 30). Nach jedem Kampf kann man für 20 Gold einen Heiltrank kaufen. Bei zu wenig Gold oder ungültiger Eingabe erscheint eine Fehlermeldung.
+
+- [ ] Einen Rekord einbauen: Das Programm merkt sich die höchste Anzahl besiegter Monster, solange es läuft. Wenn man den Rekord bricht, erscheint am Spielende „Neuer Rekord!“.
