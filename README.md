@@ -66,7 +66,8 @@ Was wäre ein geeignetes Projekt für diese LP1?
 
 # 20.11.2026
 
-- [ ] HA: Mein GitHub-Repo „Lernperiode-2“ in Visual Studio klonen, das Monsterspiel als Projektordner hinzufügen und mit „Commit und Push“ hochladen, damit Änderungen direkt aus Visual Studio auf GitHub kommen.
+- [x] HA: Mein GitHub-Repo „Lernperiode-2“ in Visual Studio klonen, das Monsterspiel als Projektordner hinzufügen und mit „Commit und Push“ hochladen, damit Änderungen direkt aus Visual Studio auf GitHub kommen.
+Antwort: Code vom Monsterspiel: https://github.com/2sunraku17/Spiel. Aus diesem Grund habe ich die Spiel-.cs Dateien gelöscht oder werde sie noch löschen, denn das ganze Projekt mit Aktualisierungen befindet sich in 2sunraku17/Spiel
 
 - [ ] Kritische Treffer einbauen: Jeder Angriff hat eine Chance von 5 %, doppelten Schaden zu machen. Dann erscheint in Rot die Meldung „Kritischer Treffer!“.
 
